@@ -1,5 +1,5 @@
-# Vachrive
-Vacrive - allows you to view your vk.com archive in a more convenient and familiar form
+# VArchive
+VArchive - allows you to view your vk.com archive in a more convenient and familiar form
 
 To work, you will need: a server or a local server (in my case, it was OPEN SERVER).
 ---------------------
